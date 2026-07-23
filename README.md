@@ -1,5 +1,16 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Ganesh v s
+**A passionate  cybersecurity|| DevOps Engineer || **
 
+Email Me 👉 ✉️ **ganeshganesh12285@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Enter your project info here
+- 🌱 **I’m currently learning:** linux and bacend development
+- 👯 **I’m looking to collaborate on:** canteen
+- 🤔 **I’m looking for help with:** creating a canteen website for a busy restaurant
+- 💬 **Ask me about:** Collaboration,backend development
+- 📫 **How to reach me:** ganeshganesh12285@gmail.com
+- 😄 **Pronouns:** ganesh sir
+- ⚡ **Fun fact:** I Love Tech and new creativity innovations
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganeshvs7) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ganesh_v_s) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshganesh12285@gmail.com) 
