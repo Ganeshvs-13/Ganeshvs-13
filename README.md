@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **ganeshganesh12285@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** linux and bacend development
-- 👯 **I’m looking to collaborate on:** canteen
+- 🔭 **I’m currently working on:** buildind a canteen website
+- 🌱 **I’m currently learning:** linux and backend development
+- 👯 **I’m looking to collaborate on:** projects
 - 🤔 **I’m looking for help with:** creating a canteen website for a busy restaurant
 - 💬 **Ask me about:** Collaboration,backend development
 - 📫 **How to reach me:** ganeshganesh12285@gmail.com
