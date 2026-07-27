@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Ganesh v s
-**A passionate  cybersecurity|| DevOps Engineer || **
+**A passionate in cybersecurity|| backend developer || **
 
 Email Me 👉 ✉️ **ganeshganesh12285@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
 
