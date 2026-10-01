@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **ganeshganesh12285@gmail.com** For Collaboration/Projects or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** buildind a canteen website
+- 🔭 **I’m currently working on:** building a canteen website
 - 🌱 **I’m currently learning:** linux and backend development
 - 👯 **I’m looking to collaborate on:** projects
 - 🤔 **I’m looking for help with:** creating a canteen website for a busy restaurant
